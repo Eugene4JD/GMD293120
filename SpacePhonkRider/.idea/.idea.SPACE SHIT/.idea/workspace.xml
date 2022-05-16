@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ee6258f-ac61-4dec-acfe-c956f34a2763" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/HealthBar/HealthBarController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MenuScripts/PauseMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@10.8.1/Editor/2D/Renderer2DUpgrader.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Effects/AudioMixerController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/ForceShieldController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SpaceShip/SpaceShipHealthController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HealthControl/ForceShieldController.cs" />
+        <option value="$PROJECT_DIR$/Assets/FollowController.cs" />
+        <option value="$PROJECT_DIR$/Assets/WavyEffect.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HealthBar/HealthHeartController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HealthBar/HealthBarController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Effects/WavyEffect.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Buffs/BaseBuff.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Buffs/ShieldBuffController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Buffs/HeartBuffController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HealthControl/SpaceShipHealthController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SpaceShip/SpaceShipEngine.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Effects/WavyLightEffect.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HealthControl/ForceShieldHealthController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemySpawner/WeightForSpawn.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemySpawner/Area.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HealthControl/HeroHealthController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MenuScripts/EndGameMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Buffs/BuffTypes/HeartBuffController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Buffs/BuffTypes/ShieldBuffController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Score/Pointable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SpaceShip/SpaceShipParticleSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ThrustSystem/SpaceShipParticleSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DeathManager/ThrustTypes/HeroDeathManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DeathManager/ThrustTypes/EnemyDeathManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DeathManager/DeathManagerTypes/HeroDeathManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DeathManager/BaseDeathManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DeathManager/DeathManagerTypes/EnemyDeathManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemySpawner/AlienSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemySpawner/BaseSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemySpawner/BuffSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Spawners/Area.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Spawners/SpawnerTypes/BuffSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Spawners/WeightForSpawn.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Buffs/BaseBuffController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Input/EnemyInput/EnemyAI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Spawners/SpawnerTypes/PlanetSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Background/PlanetMovementController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Spawners/BaseSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AudioController/AudioController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HealthControl/HealthControllerType/EnemyHealthController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HealthControl/BaseHealthController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HealthControl/HealthControllerType/HeroHealthController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LaserGun/LaserGunController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HealthControl/HealthControllerType/ForceShieldHealthController.cs" />
+        <option value="$PROJECT_DIR$/Assets/AudioMixerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MenuScripts/PauseMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Score/ScoreManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Spawners/SpawnerTypes/AlienSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Effects/AudioMixerController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="28oAyuw8FmrAamnLq2PqWtpCzcQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.3497918" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.29982153" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="SolutionBuilderGeneralOptionsPageId" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ee6258f-ac61-4dec-acfe-c956f34a2763" name="Default Changelist" comment="" />
+      <created>1651872826362</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651872826362</updated>
+      <workItem from="1651872835247" duration="1232000" />
+      <workItem from="1651930588568" duration="7130000" />
+      <workItem from="1652032626916" duration="1846000" />
+      <workItem from="1652043189682" duration="8750000" />
+      <workItem from="1652116057536" duration="7910000" />
+      <workItem from="1652189605233" duration="6034000" />
+      <workItem from="1652195926648" duration="5593000" />
+      <workItem from="1652295857064" duration="831000" />
+      <workItem from="1652300758570" duration="14725000" />
+      <workItem from="1652356382535" duration="2472000" />
+      <workItem from="1652364817276" duration="9085000" />
+      <workItem from="1652399064630" duration="10300000" />
+      <workItem from="1652563066427" duration="15690000" />
+      <workItem from="1652618639724" duration="32123000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2005" height="29" key="GridCell.Tab.0.bottom" timestamp="1652324643618">
+      <screen x="0" y="0" width="2048" height="1104" />
+    </state>
+    <state width="2005" height="29" key="GridCell.Tab.0.bottom/0.0.2048.1104@0.0.2048.1104" timestamp="1652324643618" />
+    <state width="2005" height="29" key="GridCell.Tab.0.center" timestamp="1652324643618">
+      <screen x="0" y="0" width="2048" height="1104" />
+    </state>
+    <state width="2005" height="29" key="GridCell.Tab.0.center/0.0.2048.1104@0.0.2048.1104" timestamp="1652324643618" />
+    <state width="2005" height="29" key="GridCell.Tab.0.left" timestamp="1652324643617">
+      <screen x="0" y="0" width="2048" height="1104" />
+    </state>
+    <state width="2005" height="29" key="GridCell.Tab.0.left/0.0.2048.1104@0.0.2048.1104" timestamp="1652324643617" />
+    <state width="2005" height="29" key="GridCell.Tab.0.right" timestamp="1652324643618">
+      <screen x="0" y="0" width="2048" height="1104" />
+    </state>
+    <state width="2005" height="29" key="GridCell.Tab.0.right/0.0.2048.1104@0.0.2048.1104" timestamp="1652324643618" />
+    <state width="2005" height="29" key="GridCell.Tab.1.bottom" timestamp="1652324643619">
+      <screen x="0" y="0" width="2048" height="1104" />
+    </state>
+    <state width="2005" height="29" key="GridCell.Tab.1.bottom/0.0.2048.1104@0.0.2048.1104" timestamp="1652324643619" />
+    <state width="2005" height="29" key="GridCell.Tab.1.center" timestamp="1652324643619">
+      <screen x="0" y="0" width="2048" height="1104" />
+    </state>
+    <state width="2005" height="29" key="GridCell.Tab.1.center/0.0.2048.1104@0.0.2048.1104" timestamp="1652324643619" />
+    <state width="2005" height="29" key="GridCell.Tab.1.left" timestamp="1652324643619">
+      <screen x="0" y="0" width="2048" height="1104" />
+    </state>
+    <state width="2005" height="29" key="GridCell.Tab.1.left/0.0.2048.1104@0.0.2048.1104" timestamp="1652324643619" />
+    <state width="2005" height="29" key="GridCell.Tab.1.right" timestamp="1652324643619">
+      <screen x="0" y="0" width="2048" height="1104" />
+    </state>
+    <state width="2005" height="29" key="GridCell.Tab.1.right/0.0.2048.1104@0.0.2048.1104" timestamp="1652324643619" />
+    <state width="2005" height="29" key="GridCell.Tab.2.bottom" timestamp="1652324643620">
+      <screen x="0" y="0" width="2048" height="1104" />
+    </state>
+    <state width="2005" height="29" key="GridCell.Tab.2.bottom/0.0.2048.1104@0.0.2048.1104" timestamp="1652324643620" />
+    <state width="2005" height="29" key="GridCell.Tab.2.center" timestamp="1652324643620">
+      <screen x="0" y="0" width="2048" height="1104" />
+    </state>
+    <state width="2005" height="29" key="GridCell.Tab.2.center/0.0.2048.1104@0.0.2048.1104" timestamp="1652324643620" />
+    <state width="2005" height="29" key="GridCell.Tab.2.left" timestamp="1652324643620">
+      <screen x="0" y="0" width="2048" height="1104" />
+    </state>
+    <state width="2005" height="29" key="GridCell.Tab.2.left/0.0.2048.1104@0.0.2048.1104" timestamp="1652324643620" />
+    <state width="2005" height="29" key="GridCell.Tab.2.right" timestamp="1652324643620">
+      <screen x="0" y="0" width="2048" height="1104" />
+    </state>
+    <state width="2005" height="29" key="GridCell.Tab.2.right/0.0.2048.1104@0.0.2048.1104" timestamp="1652324643620" />
+    <state width="2005" height="29" key="GridCell.Tab.3.bottom" timestamp="1652324643622">
+      <screen x="0" y="0" width="2048" height="1104" />
+    </state>
+    <state width="2005" height="29" key="GridCell.Tab.3.bottom/0.0.2048.1104@0.0.2048.1104" timestamp="1652324643622" />
+    <state width="2005" height="29" key="GridCell.Tab.3.center" timestamp="1652324643621">
+      <screen x="0" y="0" width="2048" height="1104" />
+    </state>
+    <state width="2005" height="29" key="GridCell.Tab.3.center/0.0.2048.1104@0.0.2048.1104" timestamp="1652324643621" />
+    <state width="2005" height="29" key="GridCell.Tab.3.left" timestamp="1652324643621">
+      <screen x="0" y="0" width="2048" height="1104" />
+    </state>
+    <state width="2005" height="29" key="GridCell.Tab.3.left/0.0.2048.1104@0.0.2048.1104" timestamp="1652324643621" />
+    <state width="2005" height="29" key="GridCell.Tab.3.right" timestamp="1652324643621">
+      <screen x="0" y="0" width="2048" height="1104" />
+    </state>
+    <state width="2005" height="29" key="GridCell.Tab.3.right/0.0.2048.1104@0.0.2048.1104" timestamp="1652324643621" />
+    <state x="687" y="241" width="672" height="678" key="search.everywhere.popup" timestamp="1652634786066">
+      <screen x="0" y="0" width="2048" height="1104" />
+    </state>
+    <state x="687" y="241" width="672" height="678" key="search.everywhere.popup/0.0.2048.1104@0.0.2048.1104" timestamp="1652634786066" />
+  </component>
+</project>
